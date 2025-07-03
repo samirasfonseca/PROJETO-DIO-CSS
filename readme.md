@@ -9,7 +9,7 @@ Uma landing page simples, responsiva e moderna criada com HTML e CSS puro. Ideal
 
 > Assista à demonstração completa da landing page em ação:
 
-[![Watch the video](./PROJETO-DIO-CSS/Trilha%20de%20CSS%20-%20DIO%20-%20Google%20Chrome%202025-07-03%2009-21-37.mp4)](https://youtu.be/syf5ie-JDuI) <br>
+[![Watch the video](./PROJETO-DIO-CSS/screencapture-127-0-0-1-5500-index-html-2025-07-03-09_58_05.png)](https://youtu.be/syf5ie-JDuI) <br>
 
 
 
